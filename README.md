@@ -1,2 +1,2 @@
-# Oasis Infobyte
-In this repository, I have completed the Oasis Infobyte given task.
+# Oasis Infobyte-OIBSIP-task3-Temperature-Convertor-Website
+In this repository, I have completed the Temperature Convertor Website.
